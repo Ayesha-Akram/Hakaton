@@ -1,0 +1,104 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.navbar-brand{
+    font-size: 2rem;
+    color: black;
+}
+
+.navbar-brand:hover{
+    color: rgb(255, 255, 255);
+}
+
+.nav-link{
+    margin-right: 10px;
+    margin-left: 10px;
+    color: black;
+    text-transform: uppercase;
+}
+
+.nav-link:hover{
+    color: black;
+}
+
+.navi{
+    background-color: rgb(50, 50, 224);
+}
+.image{
+    width: 60px;
+    margin-left: -60px;
+}
+
+#navi{
+    background-color: rgb(50, 50, 224);
+}
+.buy-btn a {
+    display: inline-block;
+    padding: 5px 10px;
+    color: white;
+    background-color: transparent;
+    border: 2px solid white;
+    font-weight: bold;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    border-radius: 30px;
+   
+  }
+  
+  .buy-btn a:hover {
+    background-color: white;
+    color: rgb(50, 50, 224);
+  }
+  .nav-link{
+    color: white;
+  }
+
+  .Pepsi{
+    margin-top: -90px;
+    height: 800px;
+    width: 100%;
+  }
+
+ .Nitro{
+    margin-top: -90px;
+    height: 800px;
+    width: 100%;
+  }
+
+  .better{
+    width: 100%;
+  }
+
+  .like{
+    margin-top: -90px;
+    height: 800px;
+    width: 100%;
+  }
+
+.adv{
+  width: 100%;
+  background-color: blue;
+  /* background-color: black; */
+}
+
+.what{
+  margin-top: -90px;
+  height: 900px;
+  width: 100%;
+}
+
+.diet{
+  width: 100%;
+}
+
+.pulse{
+  font-size: 3.75rem;
+  text-align: center;
+}
+
+.last{
+   width: 100%;
+}
